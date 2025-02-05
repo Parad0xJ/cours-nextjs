@@ -1,4 +1,4 @@
-## Next.js App Router Course - Starter
+## Next.js App Router Course - Full
 
 This is the Full course for the Next.js App Router Course.
 
